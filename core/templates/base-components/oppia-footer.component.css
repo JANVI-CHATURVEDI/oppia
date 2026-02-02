@@ -32,6 +32,7 @@
   /* Ensures text is white */
   cursor: pointer;
   text-decoration: none;
+  white-space: nowrap;
 }
 
 .oppia-footer-container a:focus {
